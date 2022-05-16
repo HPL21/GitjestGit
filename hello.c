@@ -1,7 +1,8 @@
 #include <stdio.h>
+#include "drukuj.h"
 
 int main()
 {
-	printf("Witaj maj, 3 maj...");
+	drukuj();
 	return 0;
 }
