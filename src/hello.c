@@ -1,6 +1,5 @@
 #include <stdio.h>
-#include "drukuj.h"
-
+#include "print.h"
 int main()
 {
 	drukuj();
